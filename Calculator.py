@@ -1,4 +1,4 @@
-#Define operation functions
+#Defining operation functions
 def add(a, b):
     return a + b
 
